@@ -100,7 +100,7 @@
     }
   }
   function loaded() {
-    console.log("Contact form submission handler loaded successfully.");
+    console.log("Contact form submission handler loaded successfully.\n****Coding by ApiWi Telegram guys: 0621277292");
     // bind to the submit event of our form
     var forms = document.querySelectorAll("form.contact-form");
     for (var i = 0; i < forms.length; i++) {
